@@ -21,7 +21,6 @@ public class Animal extends AppCompatActivity implements NavigationView.OnNaviga
     static String astr;
     ListView lv;
     TextView tv;
-    TextView testText="";
     LinearLayout linearLayout;
     @Override
     protected void onCreate(Bundle savedInstanceState)
